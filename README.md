@@ -9,7 +9,7 @@
         <li>🤝 I’m looking for help with <b>MongoDB performance tuning and advanced Node.js microservices architecture</b></li>
         <li>💬 Ask me about <b>MERN stack development, RESTful APIs, JWT auth, frontend-backend integration</b></li>
         <li>📫 How to reach me <b>raghavtiwariwork@gmail.com</b></li>
-        <li>⚡ Fun fact <b>Passionate about optimizing MERN app performance and solving complex bugs</b></li>
+        <li>⚡ Fun fact <b>I love exploring new places and collecting travel stories</b></li>
       </ul>
     </td>
     <td width="40%">
