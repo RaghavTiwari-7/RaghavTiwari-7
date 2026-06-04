@@ -11,10 +11,10 @@
         <li>📫 How to reach me <b>raghavtiwariwork@gmail.com</b></li>
         <li>⚡ Fun fact <b>I love exploring new places and collecting travel stories</b></li>
       </ul>
-    </td>
     <td width="40%">
-  <img alt="coding" width="350" src="oguzhan-akdogan-qYMkkREOHa4-unsplash.jpg" />
-</td>
+      <img align="right" alt="Coding" width="350"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF5eTZkYXRyZ29uZDBmMjRjdDlqbHI5dDM5dTF3emUwOG9mcHBpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+    </td>
   </tr>
 </table>
 
